@@ -1,4 +1,4 @@
-# Project Name
+# Founder
 
 A [short one-line description of what the project does] built on **BNB Smart Chain (BSC)** and compatible with other EVM networks.
 
